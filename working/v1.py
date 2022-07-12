@@ -10,7 +10,11 @@ from datetime import datetime
 import csv
 import sys
 BarCodeData = ""
-
+yoyo = 69420
+if (yoyo == 69420):
+    print("Nice lol")
+else:
+    print("Bro what")
 names = ["bobrien27", "seriksson", "mmorales", "aciotti", "oseldon", "tmchugh", "dgarrido", "cdeoliveira"]
 exitLoop = False
 scanComplete = False
